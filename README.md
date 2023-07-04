@@ -36,4 +36,4 @@ JSON example :
 ``
 
 
-EACH UUID generated is unique, so when it is generated copy it in and then paste in the GET URL
+EACH UUID generated is unique, so when it is generated copy it in and then paste in the GET URL.
