@@ -34,3 +34,4 @@ JSON example :
   "total": "9.00"
 }
 ``
+EACH UUID generated is unique, so when it is generated copy it in and then paste in the GET URL
