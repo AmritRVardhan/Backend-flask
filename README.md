@@ -11,6 +11,7 @@ After pulling the docker image use the below command to run the server.
 Post the above, use GET and POST from Postman to be able to send JSON details commands to get the details. 
 JSON example :
 ``
+
 {
   "retailer": "M&M Corner Market",
   "purchaseDate": "2022-03-20",
